@@ -5,5 +5,7 @@ identify key risk factors.Itsupports data-driven decisionsin banking to minimize
 strategies.
 
 •Predicts credit card default using advanced classification models.
+
 •Segments customers based on repayment behavior.
+
 •Identifies key risk factors to support data-driven banking decisions.
